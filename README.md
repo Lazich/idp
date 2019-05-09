@@ -1,6 +1,6 @@
-![IDP na Free Design Group](http://3.bp.blogspot.com/-tEeSDXtst2Q/TteJ7RqC3NI/AAAAAAAADAs/-jig8vP_lqc/s1600/idp_script.jpg)
-
 # IDP (Preslovljavanje za Adobe InDesign)
+
+![IDP na Free Design Group](http://3.bp.blogspot.com/-tEeSDXtst2Q/TteJ7RqC3NI/AAAAAAAADAs/-jig8vP_lqc/s1600/idp_script.jpg)
 
 Jednostavna skripta koja je napisana za lične potrebe, ali su je svi u redakciji vrlo brzo počeli da je koriste i da insistiraju na ispravkama za svaku novu verziju inDesigna ;)
 
@@ -14,7 +14,6 @@ Scripta peslovljava:
 - UNICOD latinicu u UNICOD cirilicu
 - Srpski ćirilični kurziv (ispravan rad zavisi od GLIPH koda, uklavnom radi sa Adobe fontovima)
 
----
 
 Instalacija:
 Skripta se ubacuje u inDesign tako što se folder sa sktiptama iskopira u folder scripts
