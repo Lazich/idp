@@ -29,3 +29,10 @@ Ili
 
 
 Pokrenite InDesign, i u meniju Window > Utilities > Scripts (Alt+Ctrl+F11 ili Alt+Apple+F11 ) i u paleti pronađite odgovarajući script.
+
+![IDP na Free Design Group](https://github.com/Lazich/idp/blob/master/img/Annotation 2019-05-09 115847.jpg)
+
+Od IDP CS3 verzije editovanjem skripte false > true mogu se uključiti > isključiti neke od opcija. 
+
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
