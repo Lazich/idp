@@ -1,10 +1,10 @@
 # IDP (Preslovljavanje za Adobe InDesign)
 
-![IDP na Free Design Group](http://3.bp.blogspot.com/-tEeSDXtst2Q/TteJ7RqC3NI/AAAAAAAADAs/-jig8vP_lqc/s1600/idp_script.jpg)
-
 Jednostavna skripta koja je napisana za lične potrebe, ali su je svi u redakciji vrlo brzo počeli da je koriste i da insistiraju na ispravkama za svaku novu verziju inDesigna ;)
 
 Skripta ustvari radi jednostavni Find/Replace a prva je napisana krajem 2003. godine na osnovu Adobeove dokumentacije za VBS script.
+
+![IDP na Free Design Group](http://3.bp.blogspot.com/-tEeSDXtst2Q/TteJ7RqC3NI/AAAAAAAADAs/-jig8vP_lqc/s1600/idp_script.jpg)
 
 Scripta peslovljava:
 - YUSCI latinicu u UNICODE ćirilicu (do CS3)
