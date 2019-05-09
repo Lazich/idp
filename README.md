@@ -4,7 +4,7 @@ Jednostavna skripta koja je napisana za lične potrebe, ali su je svi u redakcij
 
 Skripta ustvari radi jednostavni Find/Replace a prva je napisana krajem 2003. godine na osnovu Adobeove dokumentacije za VBS script.
 
-![IDP na Free Design Group](http://3.bp.blogspot.com/-tEeSDXtst2Q/TteJ7RqC3NI/AAAAAAAADAs/-jig8vP_lqc/s1600/idp_script.jpg)
+![IDP na Free Design Group](https://github.com/Lazich/idp/blob/master/img/idp_script.jpg)
 
 Scripta peslovljava:
 - YUSCI latinicu u UNICODE ćirilicu (do CS3)
