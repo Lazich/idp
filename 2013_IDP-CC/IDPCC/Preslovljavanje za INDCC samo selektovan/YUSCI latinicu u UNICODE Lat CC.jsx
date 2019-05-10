@@ -1,4 +1,4 @@
-﻿//#Script za konverzija YUSCI latinicu u UNICODE Lat #samo selektovano#
+//#Script za konverzija YUSCI latinicu u UNICODE Lat #samo selektovano#
 //# autor Nenad Lazich e-mail:Lazich@ptt.rs web:Lazich.info#
 
 //resetuje find/change podesavanja
