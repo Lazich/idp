@@ -2,7 +2,7 @@
 
 Jednostavna skripta koja je napisana za lične potrebe, ali su je svi u redakciji vrlo brzo počeli da je koriste i da insistiraju na ispravkama za svaku novu verziju inDesigna ;)
 
-Skripta ustvari radi jednostavni Find/Replace a prva je napisana krajem 2003. godine na osnovu Adobeove dokumentacije za VBS script, kasnije sam sve to prebacio JAVA script.
+Skripta ustvari radi jednostavni Find/Replace a prva je napisana krajem 2003. godine na osnovu Adobeove dokumentacije za VBS script, kasnije sam sve to prebacio u JAVA script.
 
 ![IDP na Free Design Group](https://github.com/Lazich/idp/blob/master/img/idp_script.jpg)
 
