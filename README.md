@@ -16,7 +16,7 @@ Scripta peslovljava:
 
 
 Instalacija:
-Preuzmite odgovarajuću skripte (folderi su nazvani po verziji inDesgna, a u okviru foldera raspakovane i spakovane skripte .exe, .dmg, .rar, .zip). Skripte se mogu preuzeti i sa [BoxNet IDPCSX](https://app.box.com/s/uglkgcdhrjiiyqietpml)
+Preuzmite odgovarajuću skripte (folderi su nazvani po verziji inDesgn-a, a u okviru foldera raspakovane i spakovane skripte .exe, .dmg, .rar, .zip). Skripte se mogu preuzeti i sa [BoxNet IDPCSX](https://app.box.com/s/uglkgcdhrjiiyqietpml)
 Skripta se ubacuje u inDesign tako što se folder sa sktiptama iskopira u folder scripts
 
 -- Npr.
