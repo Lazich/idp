@@ -1,8 +1,8 @@
 # IDP (Preslovljavanje za Adobe InDesign)
 
-Jednostavna skripta koja je napisana za lične potrebe, ali su svi u redakciji vrlo brzo počeli da je koriste i da insistiraju na ispravkama za svaku novu verziju inDesigna ;)
+Jednostavna skripta koja je napisana za lične potrebe, ali su svi u redakciji vrlo brzo počeli da je koriste i da insistiraju na svojim računarima i da je koriste. Sa svakom novom verzijom Adobe inDesigna sam radio male ispravke ;)
 
-Skripta ustvari radi jednostavni Find/Replace a prva je napisana krajem 2003. godine na osnovu Adobeove dokumentacije za VBS script, kasnije sam sve to prebacio u JAVA script.
+Skripta ustvari radi jednostavni Find/Replace, a prva je napisana krajem 2003. godine na osnovu Adobeove dokumentacije za VBS script, a nakon par meseci je prebačena u JAVA script da bi bila upotrebljiva i na OSX-u.
 
 ![IDP na Free Design Group](https://github.com/Lazich/idp/blob/master/img/idp_script.jpg)
 
@@ -12,7 +12,7 @@ Scripta peslovljava:
 - UNICOD ćirilicu u YUSCI latinicu
 - UNICOD ćirilicu u UNICOD latinicu
 - UNICOD latinicu u UNICOD cirilicu
-- Srpski ćirilični kurziv (ispravan rad zavisi od GLIPH koda, uklavnom radi sa Adobe fontovima)
+- Srpski ćirilični kurziv (ispravan rad zavisi od GLIPH koda, uklavnom radi sa bazičnim Adobe fontovima kao što je Minion PRO)
 
 
 Instalacija:
